@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435336134829",
+    "firebase_url": "https://raspberry-dacc1.firebaseio.com",
+    "project_id": "raspberry-dacc1",
+    "storage_bucket": "raspberry-dacc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435336134829:android:a66a934cf6ca2b83810624",
+        "android_client_info": {
+          "package_name": "com.customersupportchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435336134829-2ng36o0im9ekgn9lir6665ar20biafu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvu6K8ytittc9g_kUh0CdlmjttTKUMlaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435336134829-2ng36o0im9ekgn9lir6665ar20biafu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
